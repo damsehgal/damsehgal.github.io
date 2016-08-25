@@ -18,8 +18,6 @@ Apart from it  , I am a decent competitive programmer on following platforms
 
 [HackerRank](https://www.hackerrank.com/DamSehgal)
 
-[SPOJ](http://www.spoj.com/users/iloveaakanksha/)
-
 [CodeChef](https://www.codechef.com/users/damsehgal)
 
 [CodeForces](http://www.codeforces.com/profile/sehgaldam121)
