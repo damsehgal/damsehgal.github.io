@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
+permalink: /damsehgal/index.html
 title: Dam Sehgal
 tags: [dam, sehgal, Dam, Sehgal ,DamSehgal , Dhruv , DhruvSehgal]
 image:
@@ -15,6 +15,7 @@ My name is **Dhruv Sehgal**, and this is my personal blog.
 I am a Undergraduate candidate in *Computer Engineering* at the [Thapar University](http://www.thapar.edu/) . I am a certified android developer from [Coding Blocks](http://www.codingblocks.com/).
 
 Apart from it  , I am a decent competitive programmer on following platforms
+
 [HackerRank](https://www.hackerrank.com/DamSehgal)
 
 [SPOJ](http://www.spoj.com/users/iloveaakanksha/)
