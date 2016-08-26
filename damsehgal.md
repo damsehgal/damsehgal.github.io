@@ -7,7 +7,7 @@ image:
   feature: damsehgal.jpg
 ---
 
-  <img src="{{ site.url }}/images/damsehgal.jpg" alt="Hossain Mohammad Faysal">
+  <img src="{{ site.url }}/images/damsehgal.jpg" alt="Dam Sehgal" style="height:auto;width:100%;max-width:300px">
 
 
 My name is **Dhruv Sehgal**, and this is my personal blog. 
