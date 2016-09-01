@@ -7,10 +7,10 @@ image:
   feature: damsehgal.jpg
 ---
 
-  <img src="{{ site.url }}/images/damsehgal.jpg" alt="Dam Sehgal" style="height:auto;width:100%;max-width:300px">
+  <img src="{{ site.url }}/images/damsehgal.jpg" alt="Dam Sehgal" style="height:auto;width:100%;max-width:3s00px">
 
 
-My name is **Dhruv Sehgal**, and this is my personal blog. 
+**Hey!!** This is **Dhruv Sehgal**, and this is my personal blog. 
 
 I am a Undergraduate candidate in *Computer Engineering* at the [Thapar University](http://www.thapar.edu/) . I am a certified android developer from [Coding Blocks](http://www.codingblocks.com/).
 
