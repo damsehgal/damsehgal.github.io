@@ -21,7 +21,7 @@ published: true
 ---
 <b>Oracle JDK 8</b><br>
 This is the latest stable version of Java at time of writing, and the recommended version to install. You can do so using the following command:<br>
-	<code>sudo apt-get install oracle-java8-installer</code>
+	<code>sudo apt-get install oracle-java8-installer</code><br>
 <b>Managing Java</b><br>
 There can be multiple Java installations on one computer . You can configure which version is the default for use in the command line by using update-alternatives, which manages symlinks used for different commands.<br>
 <code>sudo update-alternatives --config java</code>
