@@ -37,7 +37,8 @@ Selection    Path                                            Priority   Status
   4            /usr/lib/jvm/java-8-oracle/jre/bin/java          1084      manual mode
 * 5            /usr/lib/jvm/jdk1.8.0_102/jre/bin/java           180       manual mode
 
-Press <enter> to keep the current choice[*], or type selection number: 
+Press enter to keep the current choice[*], or type selection number: 
 </code>
 </pre>
+<br>
 Do the same thing for javac and select the appropriate choice.
